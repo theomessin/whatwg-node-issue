@@ -1,0 +1,14 @@
+{
+	"scripts": {
+		"test": "vitest"
+	},
+	"devDependencies": {
+		"@graphql-tools/executor-http": "^1.0.5",
+		"typescript": "^5.3.3",
+		"vitest": "^1.0.4"
+	},
+	"dependencies": {
+		"graphql": "^16.8.1",
+		"graphql-yoga": "^5.0.2"
+	}
+}
